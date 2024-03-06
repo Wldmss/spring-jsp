@@ -39,6 +39,7 @@
   <button id="logout" onclick="clickBtn(0)" style="width: 80%; height: 100px; font-size: 50px;">logout</button>
   <button id="enterFullscreen" onclick="clickBtn(1)" style="width: 80%; height: 100px; font-size: 50px;">가로모드</button>
   <button id="exitFullscreen"  onclick="clickBtn(2)" style="width: 80%; height: 100px; font-size: 50px;">세로모드</button>
+  <button id="openCamera" style="width: 80%; height: 100px; font-size: 50px;">카메라</button>
   <div id="test" style="font-size: 50px;">0</div>
   <div id="inject" style="font-size: 50px;"></div>
 </body>
